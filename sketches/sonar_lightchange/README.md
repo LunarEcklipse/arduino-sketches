@@ -13,3 +13,5 @@ This project uses an Arduino to change between red, yellow, and green lights bas
 | Ultrasonic Distance Sensor | 1 |
 
 ## Schematics
+
+![Sonar_LightChange_Schematic](https://github.com/LunarEcklipse/arduino-sketches/assets/48600607/4cfe254a-fcb9-4f2f-96ea-ef8dc54d0a80)
